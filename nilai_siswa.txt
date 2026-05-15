@@ -1,0 +1,5 @@
+Eko,90
+Rani,100
+Tono,90
+Budi,80
+Joko,75
